@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\bin\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\bin\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\bin\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\bin\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\bin\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\bin\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 5. Dias de la Semana laboral\obj\Debug\netcoreapp3.1\Ejercicio 5. Dias de la Semana laboral.genruntimeconfig.cache
