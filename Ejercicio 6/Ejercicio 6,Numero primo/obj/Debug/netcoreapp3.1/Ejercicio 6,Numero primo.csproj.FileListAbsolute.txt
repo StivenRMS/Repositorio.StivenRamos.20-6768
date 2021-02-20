@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\bin\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\bin\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\bin\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\bin\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\bin\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\bin\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 6,Numero primo\obj\Debug\netcoreapp3.1\Ejercicio 6,Numero primo.genruntimeconfig.cache
