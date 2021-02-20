@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejer.3_Obrero/1.0.0": {
+        "runtime": {
+          "Ejer.3_Obrero.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejer.3_Obrero/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
