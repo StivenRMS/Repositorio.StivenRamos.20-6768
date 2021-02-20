@@ -1,0 +1,26 @@
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).csprojAssemblyReference.cache
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).AssemblyInfoInputs.cache
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).AssemblyInfo.cs
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).csproj.CoreCompileInputs.cache
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).exe
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).deps.json
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).runtimeconfig.json
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).runtimeconfig.dev.json
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).dll
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).pdb
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).dll
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).pdb
+C:\Users\ramos\source\repos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).genruntimeconfig.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\bin\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio No.4(Año Bisiesto)\obj\Debug\netcoreapp3.1\Ejercicio No.4(Año Bisiesto).genruntimeconfig.cache
