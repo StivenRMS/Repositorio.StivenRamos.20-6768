@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\bin\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\bin\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\bin\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\bin\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\bin\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\bin\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 5 (polígono regular)\Ejercicio 5 (polígono regular)\obj\Debug\netcoreapp3.1\Ejercicio 5 (polígono regular).genruntimeconfig.cache
