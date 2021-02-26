@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\bin\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\bin\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\bin\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\bin\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\bin\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\bin\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 4 (Día de semana)\Ejercicio 4 (Día de semana)\obj\Debug\netcoreapp3.1\Ejercicio 4 (Día de semana).genruntimeconfig.cache

@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\bin\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\bin\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\bin\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\bin\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\bin\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\bin\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 3 (calcule el impuesto)\Ejercicio 3 (calcule el impuesto)\obj\Debug\netcoreapp3.1\Ejercicio 3 (calcule el impuesto).genruntimeconfig.cache
