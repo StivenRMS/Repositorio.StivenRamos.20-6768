@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\bin\Debug\netcoreapp3.1\Factorial de un Numero.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\bin\Debug\netcoreapp3.1\Factorial de un Numero.deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\bin\Debug\netcoreapp3.1\Factorial de un Numero.runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\bin\Debug\netcoreapp3.1\Factorial de un Numero.runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\bin\Debug\netcoreapp3.1\Factorial de un Numero.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\bin\Debug\netcoreapp3.1\Factorial de un Numero.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Factorial de un Numero\Factorial de un Numero\obj\Debug\netcoreapp3.1\Factorial de un Numero.genruntimeconfig.cache

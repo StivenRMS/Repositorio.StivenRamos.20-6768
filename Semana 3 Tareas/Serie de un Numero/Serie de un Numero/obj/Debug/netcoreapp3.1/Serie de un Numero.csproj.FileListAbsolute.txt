@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\bin\Debug\netcoreapp3.1\Serie de un Numero.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Semana 3 Tareas\Serie de un Numero\Serie de un Numero\obj\Debug\netcoreapp3.1\Serie de un Numero.genruntimeconfig.cache
