@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\bin\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\bin\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\bin\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\bin\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\bin\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\bin\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 1(Par_Impar)\obj\Debug\netcoreapp3.1\Ejercicio 1(Par_Impar).genruntimeconfig.cache

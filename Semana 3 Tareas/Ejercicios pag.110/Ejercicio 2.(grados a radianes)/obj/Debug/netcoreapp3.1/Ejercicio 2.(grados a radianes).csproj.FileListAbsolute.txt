@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\bin\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\bin\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\bin\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\bin\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\bin\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\bin\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3. Progra 1\Ejercicio 2.(grados a radianes)\obj\Debug\netcoreapp3.1\Ejercicio 2.(grados a radianes).genruntimeconfig.cache
