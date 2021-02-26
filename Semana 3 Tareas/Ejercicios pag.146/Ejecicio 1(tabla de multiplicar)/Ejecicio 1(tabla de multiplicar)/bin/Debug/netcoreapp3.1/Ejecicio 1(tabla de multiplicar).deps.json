@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Ejecicio 1(tabla de multiplicar)/1.0.0": {
+        "runtime": {
+          "Ejecicio 1(tabla de multiplicar).dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ejecicio 1(tabla de multiplicar)/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

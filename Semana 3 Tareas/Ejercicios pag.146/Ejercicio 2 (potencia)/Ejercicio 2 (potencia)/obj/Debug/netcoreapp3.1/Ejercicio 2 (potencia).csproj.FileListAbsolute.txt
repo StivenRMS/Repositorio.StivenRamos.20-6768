@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\bin\Debug\netcoreapp3.1\Ejercicio 2 (potencia).exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\bin\Debug\netcoreapp3.1\Ejercicio 2 (potencia).deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\bin\Debug\netcoreapp3.1\Ejercicio 2 (potencia).runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\bin\Debug\netcoreapp3.1\Ejercicio 2 (potencia).runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\bin\Debug\netcoreapp3.1\Ejercicio 2 (potencia).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\bin\Debug\netcoreapp3.1\Ejercicio 2 (potencia).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Tarea 3.2 Progra 1\Ejercicio 2 (potencia)\Ejercicio 2 (potencia)\obj\Debug\netcoreapp3.1\Ejercicio 2 (potencia).genruntimeconfig.cache
