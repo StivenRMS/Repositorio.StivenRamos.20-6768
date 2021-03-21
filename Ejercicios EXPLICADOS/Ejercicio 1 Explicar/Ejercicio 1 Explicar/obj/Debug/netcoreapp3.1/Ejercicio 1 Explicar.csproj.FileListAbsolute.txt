@@ -1,0 +1,13 @@
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\bin\Debug\netcoreapp3.1\Ejercicio 1 Explicar.exe
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\bin\Debug\netcoreapp3.1\Ejercicio 1 Explicar.deps.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\bin\Debug\netcoreapp3.1\Ejercicio 1 Explicar.runtimeconfig.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\bin\Debug\netcoreapp3.1\Ejercicio 1 Explicar.runtimeconfig.dev.json
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\bin\Debug\netcoreapp3.1\Ejercicio 1 Explicar.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\bin\Debug\netcoreapp3.1\Ejercicio 1 Explicar.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.csprojAssemblyReference.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.AssemblyInfoInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.AssemblyInfo.cs
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.csproj.CoreCompileInputs.cache
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.dll
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.pdb
+C:\Users\ramos\Desktop\Programación l, Stiven Ramos\Ejercicio 1 Explicar\Ejercicio 1 Explicar\obj\Debug\netcoreapp3.1\Ejercicio 1 Explicar.genruntimeconfig.cache
